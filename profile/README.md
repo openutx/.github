@@ -2,7 +2,11 @@
 
 - Convenient and fast UI automation testing tool. 🧙 🧙 🧙
 
+- Community: https://openutx.cn/ 💬 💬 💬
+
 - Docs: https://openutx.github.io/utx/utx.html 🍿 🍿 🍿
+
+
 
 <p align="center">
 <a href="#">
